@@ -31,10 +31,3 @@ ruby client_searcher.rb -d
 ```bash
 rspec
 ```
-
-## Future Improvements
-- Accept any JSON file via CLI
-
-- REST API support
-
-- Better error handling and validations
